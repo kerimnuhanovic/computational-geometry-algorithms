@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022-03-16 19:25:38.000.910,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022-03-16 19:25:39.000.206,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022-03-16 19:25:49.000.698,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\vjezbe\Forma.h</Transaction>
+    <Transaction>2022-03-16 19:25:49.000.698,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\vjezbe\Forma.cpp</Transaction>
+    <Transaction>2022-03-16 19:25:49.000.698,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\vjezbe\Forma.dfm</Transaction>
+    <Transaction>2022-03-16 19:25:59.000.392,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022-03-16 19:26:03.000.816,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\vjezbe\pomocna.h</Transaction>
+    <Transaction>2022-03-16 19:26:03.000.816,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\vjezbe\pomocna.cpp</Transaction>
+    <Transaction>2022-03-16 20:45:52.000.895,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\vjezbe\Project1PCH1.h</Transaction>
+    <Transaction>2022-03-16 20:45:56.000.350,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\vjezbe\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
